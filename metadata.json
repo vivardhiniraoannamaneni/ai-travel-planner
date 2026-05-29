@@ -1,0 +1,6 @@
+{
+  "name": "AI Travel Itinerary Planner",
+  "description": "Generate personalized, detailed travel itineraries in seconds using Google Gemini AI, customized with budget, duration, and interests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
